@@ -1,0 +1,9 @@
+{
+  "bots": [],
+  "bot": {
+    "title": "title",
+    "description": "description",
+    "image": "image",
+    "date": "date"
+  }
+}
